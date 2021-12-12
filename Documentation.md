@@ -130,7 +130,7 @@ array[9]=F instead of an array[9]=10, we will get the following error:
 Or if we write the number that is too big for example if we write:
 array[9]=99999999999999999999999999999999999999999999999999999999999999999999 instead of an array[9]=10, we will get the following error:
 ./random.sh: line 19: [: 999999999999999999999999999999999999999999999999999999999999999999999999999999999999: integer expression expected
-After all of these tests i came to a conclusion that the script works currectly and if it works currectly than you don`t have to touch it BECAUSE IT WORKS CURRECTLY!!!!. So just use it for your own purposes and don`t break anything.
+After all of these tests i came to a conclusion that the script works currectly and if it works currectly than you don't have to touch it BECAUSE IT WORKS CURRECTLY!!!!. So just use it for your own purposes and don't break anything.
 
 
 
